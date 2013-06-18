@@ -1,4 +1,4 @@
-websphere.github.com
-====================
+websphere
+=========
 
-Public web pages of Websphere
+Simple sample projects for IBM Websphere Server
